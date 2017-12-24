@@ -1,8 +1,8 @@
 //
-//  PlayAudioViewController+Audio.swift
-//  pitchperfect
+//  PlaySoundsViewController+Audio.swift
+//  PitchPerfect
 //
-//  Copyright © 2017 Matheus Campos. All rights reserved.
+//  Copyright Â© 2016 Udacity. All rights reserved.
 //
 
 import UIKit
